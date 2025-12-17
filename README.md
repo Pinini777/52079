@@ -1,5 +1,5 @@
 
-MOTOR DE BÚSQUEDA SEMÁNTA (v1)
+MOTOR DE BÚSQUEDA SEMÁNTICA (v1)
 =============================================================================
 Desarrollo de un sistema de Busqueda Inteligente. Experimental.
 
